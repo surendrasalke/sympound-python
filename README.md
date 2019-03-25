@@ -10,7 +10,7 @@ pip install sympound
 
 # Documentation
 
-If you want a quick complete example, see [example.py](example.py).
+If you want a quick complete example, see [example.py](Speller.py).
 
 ### Creating the sympound object
 
